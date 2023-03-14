@@ -1,4 +1,4 @@
-path: ../kaggle/input/data-gun
+path: ../kaggle/input/data-gun/dataset-GUN
 train: images  
 val: images  
 
