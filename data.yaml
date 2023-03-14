@@ -1,0 +1,5 @@
+train: ./kaggle/input/data-gun/images
+val: ./kaggle/input/data-gunimages
+
+nc: 1
+names: ['GUN']
